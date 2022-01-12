@@ -1,6 +1,12 @@
-# suitmedia_mobile
+# Screening Test - Mobile Developer Intern - Suitmedia
 
-A new Flutter project.
+## Screenshot
+
+<img src="/screenshot/screenshot-1.png" width="200"> <img src="/screenshot/screenshot-2.png" width="200"> <img src="/screenshot/screenshot-3.png" width="200"> <img src="/screenshot/screenshot-4.png" width="200"> <img src="/screenshot/screenshot-5.png" width="200"> <img src="/screenshot/screenshot-6.png" width="200"> <img src="/screenshot/screenshot-7.png" width="200"> <img src="/screenshot/screenshot-8.png" width="200">
+
+## Demo
+
+<img src="/screenshot/screenshot-1.gif" width="200"> <img src="/screenshot/screenshot-2.gif" width="200"> <img src="/screenshot/screenshot-3.gif" width="200">
 
 ## Getting Started
 
